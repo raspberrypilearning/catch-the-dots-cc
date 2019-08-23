@@ -27,6 +27,7 @@ title: What you will learn
 ---
 + How to choose random items from a list
 + How to use variables to track speed, lives, and the player's score
++ Understand the skills which are developed towards a career involving Computing
 
 --- /collapse ---
 
