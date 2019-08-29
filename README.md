@@ -1,14 +1,14 @@
-# catch-the-dots-cc
+# Catch the dots
 
-![catch-the-dots-cc](banner.png)
+![Catch the dots](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/catch-the-dots-cc](https://projects.raspberrypi.org/en/projects/catch-the-dots-cc)
+Find the project online at [projects.raspberrypi.org/en/projects/catch-the-dots](https://projects.raspberrypi.org/en/projects/catch-the-dots)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/catch-the-dots-cc/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/catch-the-dots-cc/tree/master/en/solutions).
+For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/catch-the-dots/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
- See [LICENCE.md](LICENCE.md)
+See [LICENSE.md](LICENSE.md)
