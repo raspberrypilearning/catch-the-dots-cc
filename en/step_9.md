@@ -22,3 +22,5 @@ Score as many points as you can by shooting flying space-hippos. If you get hit 
 ![desc](images/clone-showcase.png)
 
 --- /print-only ---
+
+![progress bar](images/s2-4.png)
