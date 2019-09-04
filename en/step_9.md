@@ -1,4 +1,4 @@
-## What next?
+## What have you learned?
 
 Try the 'Clone wars' project to make a game in which you have to save the Earth from space monsters. In that project, you will be able to use what you have learned about cloning sprites and adding a score!
 
