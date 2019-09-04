@@ -24,3 +24,8 @@ Score as many points as you can by shooting flying space-hippos. If you get hit 
 --- /print-only ---
 
 ![progress bar](images/s2-4.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="https://codeclub.org/en/scratch2">
+<img src="images/Clickme.png">
