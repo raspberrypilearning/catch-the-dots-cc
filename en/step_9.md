@@ -1,4 +1,4 @@
-## What next?
+## What have you learned?
 
 Try the 'Clone wars' project to make a game in which you have to save the Earth from space monsters. In that project, you will be able to use what you have learned about cloning sprites and adding a score!
 
@@ -22,3 +22,10 @@ Score as many points as you can by shooting flying space-hippos. If you get hit 
 ![desc](images/clone-showcase.png)
 
 --- /print-only ---
+
+![progress bar](images/s2-4.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="https://codeclub.org/en/scratch2">
+<img src="images/Clickme.png">
