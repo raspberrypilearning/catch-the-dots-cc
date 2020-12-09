@@ -1,6 +1,6 @@
 ---
 hero_image: images/banner.png
-listed: true
+listed: false
 copyedit: false
 title: Catch the dots
 description: Make a dot-catching game
